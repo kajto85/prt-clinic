@@ -1,4 +1,4 @@
-package pl.kaj2.prtclinic;
+package pl.kaj2.petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

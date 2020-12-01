@@ -1,4 +1,4 @@
-package pl.kaj2.prtclinic;
+package prtclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

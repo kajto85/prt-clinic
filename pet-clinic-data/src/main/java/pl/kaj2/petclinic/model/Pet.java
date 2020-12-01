@@ -1,4 +1,4 @@
-package pl.kaj2.prtclinic.model;
+package pl.kaj2.petclinic.model;
 
 import java.time.LocalDate;
 
